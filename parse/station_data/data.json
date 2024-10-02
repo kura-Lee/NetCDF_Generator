@@ -1,0 +1,83 @@
+{
+    "R7223": {
+        "station_name": "观风海",
+        "station_id": "R7223",
+        "latitude": "104.0",
+        "longitude": "26.98",
+        "altitude": "2233",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7261": {
+        "station_name": "河边",
+        "station_id": "R7261",
+        "latitude": "103.92",
+        "longitude": "26.78",
+        "altitude": "2321",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7225": {
+        "station_name": "哈喇河",
+        "station_id": "R7225",
+        "latitude": "103.99",
+        "longitude": "26.82",
+        "altitude": "2005",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7237": {
+        "station_name": "雪山",
+        "station_id": "R7237",
+        "latitude": "104.09",
+        "longitude": "27.059",
+        "altitude": "2509",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7252": {
+        "station_name": "松山",
+        "station_id": "R7252",
+        "latitude": "104.13",
+        "longitude": "27.03",
+        "altitude": "2196",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7263": {
+        "station_name": "秀水",
+        "station_id": "R7263",
+        "latitude": "103.94",
+        "longitude": "26.91",
+        "altitude": "2200",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7247": {
+        "station_name": "上关口",
+        "station_id": "R7247",
+        "latitude": "103.79",
+        "longitude": "26.93",
+        "altitude": "2129",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "R7236": {
+        "station_name": "双龙",
+        "station_id": "R7236",
+        "latitude": "104.14",
+        "longitude": "26.9",
+        "altitude": "2246",
+        "station_type": "40",
+        "station_level": "15"
+    },
+    "56691": {
+        "station_name": "县局",
+        "station_id": "56691",
+        "latitude": "104.28",
+        "longitude": "26.86",
+        "altitude": "2234",
+        "station_type": "0",
+        "station_level": "11"
+    }
+}

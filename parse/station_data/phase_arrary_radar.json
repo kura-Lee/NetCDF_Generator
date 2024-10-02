@@ -1,0 +1,23 @@
+{
+    "_default": {
+        "station_name": "default",
+        "station_name_zh": "默认站点",
+        "site_code": "0",
+        "latitude": "0",
+        "longitude": "0",
+        "altitude": "0",
+        "station_type": "0",
+        "station_level": "0"
+    },
+    "ZWN01": {
+        "site_name": "Xueshan",
+        "site_name_zh": "雪山",
+        "site_code": "ZWN01",
+        "longitude": "104.09",
+        "latitude": "27.059",
+        "altitude": "2509",
+        "station_type": "40",
+        "station_level": "015"
+    }
+}
+

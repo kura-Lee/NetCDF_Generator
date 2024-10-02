@@ -1,0 +1,23 @@
+{
+    "_default": {
+        "station_name": "default",
+        "station_name_zh": "默认站点",
+        "station_id": "0",
+        "latitude": "0",
+        "longitude": "0",
+        "altitude": "0",
+        "station_type": "0",
+        "station_level": "0"
+    },
+    "R7253": {
+        "station_name": "Xiaohai",
+        "station_name_zh": "小海",
+        "station_id": "R7253",
+        "latitude": "104.18",
+        "longitude": "26.94",
+        "altitude": "2216",
+        "station_type": "40",
+        "station_level": "015"
+    }
+}
+
